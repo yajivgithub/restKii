@@ -1,8 +1,6 @@
-# spring5-mvc-hibernate-example
+# spring5-mvc-hibernate-example With Rest API Built.
 
-文章地址：https://dev-cheats/spring/spring5-mvc-hibernate5-example.html
 
-## 运行方法
 
 ```bash
 mvn clean tomcat7:run
